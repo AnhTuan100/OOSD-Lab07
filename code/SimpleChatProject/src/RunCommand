@@ -1,4 +1,4 @@
-# Bien dich tu thu muc goc Lloseng
+# Bien dich tu thu muc goc 
 cd code
 javac --release 11 -encoding UTF-8 -d SimpleChatProject\out -sourcepath . ocsf\client\AbstractClient.java ocsf\server\AbstractServer.java ocsf\server\ConnectionToClient.java SimpleChatProject\src\common\ChatIF.java SimpleChatProject\src\server\EchoServer.java SimpleChatProject\src\server\ServerConsole.java SimpleChatProject\src\client\ChatClient.java SimpleChatProject\src\client\ClientConsole.java
 
